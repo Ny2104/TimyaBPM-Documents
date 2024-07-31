@@ -1,5 +1,4 @@
-<template><div><h1 id="kurulum" tabindex="-1"><a class="header-anchor" href="#kurulum"><span>Kurulum</span></a></h1>
-<h2 id="_1-timya-bpm-kurulumu" tabindex="-1"><a class="header-anchor" href="#_1-timya-bpm-kurulumu"><span>1. Timya/BPM Kurulumu</span></a></h2>
+<template><div><h2 id="_1-timya-bpm-kurulumu" tabindex="-1"><a class="header-anchor" href="#_1-timya-bpm-kurulumu"><span>1. Timya/BPM Kurulumu</span></a></h2>
 <p>Timya/BPM kurulumu için Timya BPM Web uygulaması ve Timya BPM Engine kurulumu yapılmalıdır.</p>
 <h2 id="_2-timya-bpm-web-kurulumu" tabindex="-1"><a class="header-anchor" href="#_2-timya-bpm-web-kurulumu"><span>2. Timya/BPM Web Kurulumu</span></a></h2>
 <p>Windows Server 2019 ve yukarısı işletim sistemlerinde IIS aşağıdaki özelliklere sahip olarak kurulu olmalıdır.</p>
